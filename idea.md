@@ -1,7 +1,7 @@
 To Do List
 - buttonAdd.addEventListener("click", (e) => {})
 - append
-x DO NOT USE: todoList.insertAdjacentHTML("beforeend", newItemHTML);
+- x DO NOT USE: todoList.insertAdjacentHTML("beforeend", newItemHTML);
 
 append vs appendChild vs insertHTML vs insertAdjacentHTML
 
