@@ -3,7 +3,7 @@ To Do List
 - x DO NOT USE: append
 - x DO NOT USE: todoList.insertAdjacentHTML("beforeend", newItemHTML);
 - EVENT DELEGATION!
-- <input type="checkbox">
+- "<input_type="checkbox">"
 
 append vs appendChild vs insertHTML vs insertAdjacentHTML  
 
