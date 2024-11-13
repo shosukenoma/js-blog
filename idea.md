@@ -2,7 +2,8 @@ To Do List
 - buttonAdd.addEventListener("click", (e) => {})
 - x DO NOT USE: append
 - x DO NOT USE: todoList.insertAdjacentHTML("beforeend", newItemHTML);
-- EVENT DELEGATION!  
+- EVENT DELEGATION!
+- <input type="checkbox">
 
 append vs appendChild vs insertHTML vs insertAdjacentHTML  
 
